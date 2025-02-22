@@ -2,25 +2,27 @@
 
 To reach the **top 1%** in JavaScript, you need to master both deep fundamentals and advanced concepts. Here's a structured breakdown:
 
-#### 📚 1. Deep Understanding of JavaScript Fundamentals
+#### 🚀 1. Series Introduction 
 
-#### 🌐 2. Advanced Asynchronous JavaScript
+#### 📚 2. Deep Understanding of JavaScript Execution Context
 
-#### 🏗️ 3. Object-Oriented JavaScript & Prototypes
+#### 🌐 3. Advanced Asynchronous JavaScript
 
-#### ⚙️ 4. Functional Programming in JavaScript
+#### 🏗️ 4. Object-Oriented JavaScript & Prototypes
 
-#### 🧠 5. JavaScript Memory Management & Performance
+#### ⚙️ 5. Functional Programming in JavaScript
 
-#### 🔍 6. Metaprogramming in JavaScript
+#### 🧠 6. JavaScript Memory Management & Performance
 
-#### 🏆 7. Mastering JavaScript Design Patterns
+#### 🔍 7. Metaprogramming in JavaScript
 
-#### 🌍 8. Web APIs & Browser Internals
+#### 🏆 8. Mastering JavaScript Design Patterns
 
-#### 📝 9. Writing High-Quality JavaScript Code
+#### 🌍 9. Web APIs & Browser Internals
 
-#### 🔧 10. JavaScript Internals & Engine Optimizations
+#### 📝 10. Writing High-Quality JavaScript Code
+
+#### 🔧 11. JavaScript Internals & Engine Optimizations
 
 ## 🚀 Next Steps
 To reach the **top 1%**, you must:
