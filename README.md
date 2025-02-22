@@ -24,6 +24,9 @@ To reach the **top 1%** in JavaScript, you need to master both deep fundamentals
 
 #### 🔧 11. JavaScript Internals & Engine Optimizations
 
+## Tip:
+Try reading the first overview file in each folder to understand the folder Structure and files. All the folders are formatted in same order mentioned in their **01.--overview.md**
+
 ## 🚀 Next Steps
 To reach the **top 1%**, you must:
 - Build projects
