@@ -122,7 +122,7 @@ This repository is the result of **months of dedicated effort** to compile and p
 I would love to hear your thoughts! Please feel free to provide feedback or suggestions to improve this guide.
 
 ### Where to give Feedback:
-- **eMail:** [marslanmushtaq7@gmail.com](mailto:marslanmushtaq7@gmail.com)
+- **email:** [marslanmushtaq7@gmail.com](mailto:marslanmushtaq7@gmail.com)
 - **Whatsapp:** [Chat with me](https://wa.me/923104425540)
 - **Instagram:** [muhammad_arslan7](https://www.instagram.com/muhammad_arslan7_/)
 
